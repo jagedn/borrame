@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-[ABSTRACT: Short introduction and motivation of the proposal.]
+[ABSTRACT: Replace with a short introduction and motivation of the proposal. A couple of lines is enought.]
 
 ## Proposal format
 
@@ -17,7 +17,7 @@ Indicate one of these:
 
 ## Topic(s)
 
-This is only a suggestion list. Feel free to add yours
+(This is only a suggestion list. Feel free to add yours)
 
 - [] Tech talk
 - [] Experiences
